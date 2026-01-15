@@ -1,0 +1,13 @@
+# Gmail to Google Sheets Automation - Python Dependencies
+
+# Google API Client Libraries
+google-auth==2.25.2
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.111.0
+
+# HTML Parsing (for email body extraction)
+beautifulsoup4==4.12.2
+
+# Additional dependencies
+requests==2.31.0
